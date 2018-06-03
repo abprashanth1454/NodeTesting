@@ -1,0 +1,19 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abprashanth1454/NodeTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abprashanth1454/NodeTesting/issues"
+  },
+  "homepage": "https://github.com/abprashanth1454/NodeTesting#readme"
+}
